@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aolknowledgedoc.github.io/sitemap.xml
+Sitemap: https://aolcoreknowledge.github.io/sitemap.xml
